@@ -28,9 +28,9 @@ You might know me from <a href="https://www.reachandmakemillions.com" target="bl
 <a href="https://auth.geeksforgeeks.org/user/kitkatnik" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kitkatnik" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/kitkatnik" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="kitkatnik" height="30" width="40" /></a>
 
+<a href="https://dev.to/kitkatnik" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kitkatnik" height="30" width="40" /></a>
 <a href="https://kaggle.com/katyasarmiento" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="katyasarmiento" height="30" width="40" /></a>
 <a href="https://hashnode.com/@kitkatnik" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@kitkatnik" height="30" width="40" /></a>
-<a href="https://dev.to/kitkatnik" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kitkatnik" height="30" width="40" /></a>
 </p>
   
 <br/><br/>
@@ -45,10 +45,4 @@ You might know me from <a href="https://www.reachandmakemillions.com" target="bl
 <p><img src="https://github-readme-streak-stats.herokuapp.com?user=Kitkatnik&theme=dracula&hide_border=true&ring=A195E2&sideNums=A195E2&sideLabels=A195E2)](https://git.io/streak-stats&count_private=true" alt="kitkatnik" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=kitkatnik&show_icons=true&theme=dracula&title_color=a195e2&text_color=f7f7f1&bg_color=282a36&hide_border=true&locale=en&count_private=true" alt="kitkatnik" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kitkatnik&show_icons=true&theme=dracula&title_color=a195e2&text_color=f7f7f1&bg_color=282a36&hide_border=true&locale=en&&count_private=truelayout=compact" alt="kitkatnik" /></p>
-
-<br/>
-  
-### 😂 Random Dev Meme
-<br/>
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 </div>
