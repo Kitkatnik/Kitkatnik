@@ -42,9 +42,9 @@ You might know me from <a href="https://www.reachandmakemillions.com" target="bl
 <br/><br/>
   
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kitkatnik&show_icons=true&theme=dracula&title_color=a195e2&text_color=f7f7f1&bg_color=282a36&hide_border=true&locale=en&count_private=true" alt="kitkatnik" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Kitkatnik&theme=dracula&hide_border=true&ring=A195E2&sideNums=A195E2&sideLabels=A195E2)](https://git.io/streak-stats&count_private=true" alt="kitkatnik" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kitkatnik&show_icons=true&theme=dracula&title_color=a195e2&text_color=f7f7f1&bg_color=282a36&hide_border=true&locale=en&&count_private=truelayout=compact" alt="kitkatnik" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=kitkatnik&show_icons=true&theme=dracula&title_color=a195e2&text_color=f7f7f1&bg_color=282a36&hide_border=true&locale=en&count_private=true" alt="kitkatnik" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=Kitkatnik&theme=dracula&hide_border=true&ring=A195E2&sideNums=A195E2&sideLabels=A195E2)](https://git.io/streak-stats&count_private=true" alt="kitkatnik" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kitkatnik&show_icons=true&theme=dracula&title_color=a195e2&text_color=f7f7f1&bg_color=282a36&hide_border=true&locale=en&&count_private=truelayout=compact" alt="kitkatnik" /></p>
 
 <br/>
   
