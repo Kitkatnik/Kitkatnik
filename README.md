@@ -40,14 +40,15 @@ You might know me from <a href="https://www.reachandmakemillions.com" target="bl
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Alfred](https://img.shields.io/badge/alfred-%235C1F87.svg?style=for-the-badge&logo=alfred) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 <br/><br/>
+
+# 💯 My Badges
+
+[![@kitkatnik's Holopin board](https://holopin.me/kitkatnik)](https://holopin.io/@kitkatnik)
+
+<br/><br/>
   
 # 📊 GitHub Stats:
 <p><img src="https://github-readme-streak-stats.herokuapp.com?user=Kitkatnik&theme=dracula&hide_border=true&ring=A195E2&sideNums=A195E2&sideLabels=A195E2)](https://git.io/streak-stats&count_private=true" alt="kitkatnik" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=kitkatnik&show_icons=true&theme=dracula&title_color=a195e2&text_color=f7f7f1&bg_color=282a36&hide_border=true&locale=en&count_private=true" alt="kitkatnik" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kitkatnik&show_icons=true&theme=dracula&title_color=a195e2&text_color=f7f7f1&bg_color=282a36&hide_border=true&locale=en&&count_private=truelayout=compact" alt="kitkatnik" /></p>
 </div>
-
-# 💯 My Badges
-
-[![@kitkatnik's Holopin board](https://holopin.me/kitkatnik)](https://holopin.io/@kitkatnik)
-
