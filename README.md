@@ -46,3 +46,8 @@ You might know me from <a href="https://www.reachandmakemillions.com" target="bl
 <p><img src="https://github-readme-stats.vercel.app/api?username=kitkatnik&show_icons=true&theme=dracula&title_color=a195e2&text_color=f7f7f1&bg_color=282a36&hide_border=true&locale=en&count_private=true" alt="kitkatnik" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kitkatnik&show_icons=true&theme=dracula&title_color=a195e2&text_color=f7f7f1&bg_color=282a36&hide_border=true&locale=en&&count_private=truelayout=compact" alt="kitkatnik" /></p>
 </div>
+
+# 💯 My Badges
+
+[![@kitkatnik's Holopin board](https://holopin.me/kitkatnik)](https://holopin.io/@kitkatnik)
+
