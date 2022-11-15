@@ -67,7 +67,7 @@ You might know me from <a href="https://www.reachandmakemillions.com" target="bl
   <br/>
   
   <div>
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=Kitkatnik&theme=dracula&hide_border=true&ring=A195E2&sideNums=A195E2&sideLabels=A195E2)](https://git.io/streak-stats&count_private=true" alt="kitkatnik" /> <img width="45%" src="https://github-readme-stats.vercel.app/api?username=kitkatnik&show_icons=true&theme=dracula&title_color=a195e2&text_color=f7f7f1&bg_color=282a36&hide_border=true&locale=en&count_private=true" alt="kitkatnik" /></div><br />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Kitkatnik&theme=dracula&hide_border=true&ring=A195E2&sideNums=A195E2&sideLabels=A195E2)](https://git.io/streak-stats&count_private=true" alt="kitkatnik" /> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kitkatnik&show_icons=true&theme=dracula&title_color=a195e2&text_color=f7f7f1&bg_color=282a36&hide_border=true&locale=en&count_private=true" alt="kitkatnik" /></div><br />
   
   [![@kitkatnik's Holopin board](https://holopin.me/kitkatnik)](https://holopin.io/@kitkatnik)
 </div>
