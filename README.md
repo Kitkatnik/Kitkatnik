@@ -1,21 +1,10 @@
 <div align="center">
   
 # Hi 👋 call me Kat 😸<br/>
-You might know me from <a href="https://www.reachandmakemillions.com" target="blank">BTS Business</a> or <a href="https://www.operationdelegation.com" target="blank">Operation Delegation</a>.<br/>
+You might know me from <a href="https://www.reachandmakemillions.com" target="blank">BTS Business</a> or <a href="https://www.operationdelegation.com" target="blank">Operation Delegation</a>.<br/><br/>
   
-  You'll find me most active on<br/>
-  <a href="https://www.polywork.com/kitkatnik" target="blank"><img src="https://theme.zdassets.com/theme_assets/11575180/c25c154b02dd9e83826a97b6564d96160bc5aa26.png" height="30"></a><br/>
-  
-🌱 Currently learning full-stack development<br>
-💼 Business owner and Interim COO / Director of Ops for SMB<br>
-👾 Hispanic, ADHD-C, polyamorous, musician, gamer, and anime lover.<br>
-⚡️ Interested in projects related to mental health, LGBTQ, or any of the topics above.
-  
-#
-  <br/>
-
-<details>
-  <summary>📃 Resume</summary>
+  <details>
+  <summary>📃 RESUME</summary>
   
   ## EDUCATION
   <!-- TO DO:
@@ -44,7 +33,7 @@ You might know me from <a href="https://www.reachandmakemillions.com" target="bl
   
   
 <details>
-  <summary>🌐 Connect With Me</summary>
+  <summary>🌐 CONNECT WITH ME</summary>
   
   <br/>
   
@@ -64,20 +53,23 @@ You might know me from <a href="https://www.reachandmakemillions.com" target="bl
     <a href="https://kaggle.com/katyasarmiento" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="katyasarmiento" height="30" width="40" /></a> 
     <a href="https://hashnode.com/@kitkatnik" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@kitkatnik" height="30" width="40" /></a>
 </p><br/>
-</details>
+  </details><br/>
+  You'll find me most active on<br/>
+  <a href="https://www.polywork.com/kitkatnik" target="blank"><img src="https://theme.zdassets.com/theme_assets/11575180/c25c154b02dd9e83826a97b6564d96160bc5aa26.png" height="30"></a><br/><br/>
   
-
-<details>
-  <summary>💯 My Github Stats & Badges</summary>
+🌱 Currently learning full-stack development<br>
+💼 Business owner and Interim COO / Director of Ops for SMB<br>
+👾 Hispanic, ADHD-C, polyamorous, musician, gamer, and anime lover.<br>
+⚡️ Interested in projects related to mental health, LGBTQ, or any of the topics above.
+  
+#
   
   <br/>
   
   <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kitkatnik&theme=dracula&hide_border=true&ring=A195E2&sideNums=A195E2&sideLabels=A195E2)](https://git.io/streak-stats&count_private=true" alt="kitkatnik" /> <img src="https://github-readme-stats.vercel.app/api?username=kitkatnik&show_icons=true&theme=dracula&title_color=a195e2&text_color=f7f7f1&bg_color=282a36&hide_border=true&locale=en&count_private=true" alt="kitkatnik" /></div><br />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=Kitkatnik&theme=dracula&hide_border=true&ring=A195E2&sideNums=A195E2&sideLabels=A195E2)](https://git.io/streak-stats&count_private=true" alt="kitkatnik" /> <img width="45%" src="https://github-readme-stats.vercel.app/api?username=kitkatnik&show_icons=true&theme=dracula&title_color=a195e2&text_color=f7f7f1&bg_color=282a36&hide_border=true&locale=en&count_private=true" alt="kitkatnik" /></div><br />
   
   [![@kitkatnik's Holopin board](https://holopin.me/kitkatnik)](https://holopin.io/@kitkatnik)
-
-</details>
 
   #
   
