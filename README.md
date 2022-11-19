@@ -4,22 +4,29 @@
 You might know me from <a href="https://www.reachandmakemillions.com" target="blank">BTS Business</a> or <a href="https://www.operationdelegation.com" target="blank">Operation Delegation</a>.<br/><br/>
   
   <details>
-  <summary>📃 RESUME</summary>
-  
-  ## EDUCATION
-  <!-- TO DO:
+    <summary>📃 <strong>RESUME</strong></summary>
+<!-- TO DO:
   - Link to github projects in education
   - Change to https://badges.pages.dev/ badges
   - Add Experience table with: Title, Company, Dates, Tech Stack
 -->
+    
+  ## EDUCATION
   
   | 📖 SCHOOL | 📆 DATE | 🖥 TECH STACK | 👩‍💻 PROJECTS |
   | --- | --- | --- | --- |
-  | **Thinkful** | 2022 - 2023 | ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat) ![JSON Badge](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=flat) ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat) ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat) ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat) ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat) ![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat) ![Slack Badge](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff&style=flat) | TBD |
-  | **Zero to Mastery** | 2022 | TBD | TBD |
-  | Other Schools | TBD | ![Codecademy Badge](https://img.shields.io/badge/Codecademy-1F4056?logo=codecademy&logoColor=fff&style=flat) ![Coursera Badge](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff&style=flat) ![edX Badge](https://img.shields.io/badge/edX-02262B?logo=edx&logoColor=fff&style=flat) ![freeCodeCamp Badge](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff&style=flat) ![Frontend Mentor Badge](https://img.shields.io/badge/Frontend%20Mentor-3F54A3?logo=frontendmentor&logoColor=fff&style=flat) ![Skillshare Badge](https://img.shields.io/badge/Skillshare-00FF84?logo=skillshare&logoColor=000&style=flat) ![Udemy Badge](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff&style=flat) | TBD|
+  | **Thinkful** | 2022 - 2023 | ![Slack Badge](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff&style=flat) ![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat) ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat) ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat) ![JSON Badge](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=flat) ![npm Badge](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=flat) <br /> ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat) <br /> ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat) ![Create React App Badge](https://img.shields.io/badge/Create%20React%20App-09D3AC?logo=createreactapp&logoColor=fff&style=flat) ![React Router Badge](https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=flat) | ⭐️ [Recipe Tracker](https://github.com/Kitkatnik/recipe-tracker) |
+  | **Zero to Mastery** | 2022 | ![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat) ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat) ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat) ![JSON Badge](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=flat) ![npm Badge](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=flat) ![Yarn Badge](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff&style=flat) <br /> ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat) <br />![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat) ![Create React App Badge](https://img.shields.io/badge/Create%20React%20App-09D3AC?logo=createreactapp&logoColor=fff&style=flat) ![React Router Badge](https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=flat) <br /> ![Sass Badge](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=flat) ![styled-components Badge](https://img.shields.io/badge/styled--components-DB7093?logo=styledcomponents&logoColor=fff&style=flat) ![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=flat) ![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=flat) | ⭐️ [RoboFriends](https://github.com/Kitkatnik/robofriends) <br/> ⭐️ [Face Recognition App](https://github.com/Kitkatnik/face-recognition) <br/> ⭐️ [Monsters Rolodex](https://github.com/Kitkatnik/monsters-rolodex) <br/> ⭐️ [Crwn Clothing Shop](https://github.com/Kitkatnik/crwn-clothing) |
+  | Other Schools | 2022 | ![Codecademy Badge](https://img.shields.io/badge/Codecademy-1F4056?logo=codecademy&logoColor=fff&style=flat) ![freeCodeCamp Badge](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff&style=flat) ![Frontend Mentor Badge](https://img.shields.io/badge/Frontend%20Mentor-3F54A3?logo=frontendmentor&logoColor=fff&style=flat) <br /> ![Coursera Badge](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff&style=flat) ![edX Badge](https://img.shields.io/badge/edX-02262B?logo=edx&logoColor=fff&style=flat) ![Skillshare Badge](https://img.shields.io/badge/Skillshare-00FF84?logo=skillshare&logoColor=000&style=flat) ![Udemy Badge](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff&style=flat) | TBD|
 
   <br/>
+    
+  ## PERSONAL PROJECTS
+    
+  | 💼 PROJECT NAME | 🔗 LINKS | 📝 DESCRIPTION|
+  | --- | --- | --- | 
+  | Scrollodex | [Page]() / [Repo]() | ![Open Source Love svg2](https://img.shields.io/badge/opensource-🤍-blue) ![Hacktoberfest 2022](https://img.shields.io/badge/hacktoberfest-2022-red) <br/> A fun place for women who code members to add and display their business cards. |
+  | Lenormand | [Page](https://kitkatnik.github.io/lenormand/) / [Repo](https://github.com/Kitkatnik/lenormand) | ![Collaboration](https://img.shields.io/badge/collab-%F0%9F%A4%8D-blue) <br/> A Lenormand Card reading app |
   
   ## MY WORKSPACE
   
@@ -33,7 +40,7 @@ You might know me from <a href="https://www.reachandmakemillions.com" target="bl
   
   
 <details>
-  <summary>🌐 CONNECT WITH ME</summary>
+  <summary>🌐 <strong>CONNECT WITH ME</strong></summary>
   
   <br/>
   
