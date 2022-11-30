@@ -25,9 +25,9 @@ You might know me from <a href="https://www.reachandmakemillions.com" target="bl
     
   | 💼 PROJECT NAME | 🔗 LINKS | 📝 DESCRIPTION|
   | --- | --- | --- | 
-  | Portfolio | [Page](https://katya-sarmiento-portfolio.vercel.app/) / [Repo](https://github.com/Kitkatnik/ks-portfolio) | A personal portfolio built from scratch using React and referencing a Figma mockup. |
-  | Scrollodex | [Page](https://scrollodex.netlify.app/) / [Repo](https://github.com/Kitkatnik/ks-scrollodex) | ![Open Source Love svg2](https://img.shields.io/badge/opensource-🤍-blue) ![Hacktoberfest 2022](https://img.shields.io/badge/hacktoberfest-2022-red) <br/> A fun place for women who code members to add and display their business cards. |
-  | Lenormand | [Page](https://kitkatnik.github.io/ks-lenormand/) / [Repo](https://github.com/Kitkatnik/ks-lenormand) | ![Collaboration](https://img.shields.io/badge/collab-%F0%9F%A4%8D-blue) <br/> A Lenormand Card reading app |
+  | Portfolio | [Page](https://katya-sarmiento-portfolio.vercel.app/) / [Repo](https://github.com/Kitkatnik/ks-portfolio) | ![Personal Project Badge](https://img.shields.io/badge/personal-%F0%9F%92%9C-%233BCEAC)<br />A personal portfolio built from scratch using React and referencing a Figma mockup. |
+  | Scrollodex | [Page](https://scrollodex.netlify.app/) / [Repo](https://github.com/Kitkatnik/ks-scrollodex) | ![Open Source Love svg2](https://img.shields.io/badge/opensource-%F0%9F%90%A7-%234CC9F0) ![Hacktoberfest 2022](https://img.shields.io/badge/hacktoberfest-2022-red) <br/> A fun place for women who code members to add and display their business cards. |
+  | Lenormand | [Page]([https://kitkatnik.github.io/ks-lenormand/](https://lenormand.onrender.com)) / [Repo](https://github.com/Kitkatnik/ks-lenormand) | ![Collaboration](https://img.shields.io/badge/personal-%F0%9F%A4%9D-%239369c1) <br/> A Lenormand Card reading app |
   
   ## MY WORKSPACE
   
