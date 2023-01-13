@@ -43,7 +43,11 @@ You might know me from <a href="https://www.reachandmakemillions.com" target="bl
 <details>
   <summary>🌐 <strong>CONNECT WITH ME</strong></summary>
   
-  <br/>
+  <br />
+  
+  You'll find me most active on<br/>
+  <a href="https://www.polywork.com/kitkatnik" target="blank"><img src="https://theme.zdassets.com/theme_assets/11575180/c25c154b02dd9e83826a97b6564d96160bc5aa26.png" height="30"></a>
+  <br/><br/>
   
   <p align="center">
     <a href="https://linkedin.com/in/katyasarmiento" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="katyasarmiento" height="30" width="40" /></a> 
@@ -62,11 +66,8 @@ You might know me from <a href="https://www.reachandmakemillions.com" target="bl
     <a href="https://hashnode.com/@kitkatnik" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@kitkatnik" height="30" width="40" /></a>
   </p>
   
-  <br/>
-
-  You'll find me most active on<br/>
-  <a href="https://www.polywork.com/kitkatnik" target="blank"><img src="https://theme.zdassets.com/theme_assets/11575180/c25c154b02dd9e83826a97b6564d96160bc5aa26.png" height="30"></a>
   <br/><br/>
+
 </details><br/>
   
 🌱 Currently looking for Full-Stack Developer roles<br>
