@@ -70,7 +70,6 @@ You might know me from <a href="https://www.reachandmakemillions.com" target="bl
 
 </details><br/>
 
-![status](https://badge.stateful.com/Kitkatnik/status.svg) <br/>
 ![status](https://badge.stateful.com/Kitkatnik/dnd.svg)
   
 🌱 Currently looking for Full-Stack Developer roles<br>
